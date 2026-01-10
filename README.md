@@ -28,7 +28,7 @@ I'm a passionate **student** with experience in **Python and SQL**. I love tackl
 
 ## Featured Projects 💻
 
-### [NBA Position Predictor](project_1_link)
+### [NBA Position Predictor](https://github.com/pabraham1/NBA_Position_Analysis.git)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
@@ -43,7 +43,7 @@ I'm a passionate **student** with experience in **Python and SQL**. I love tackl
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(https://www.linkedin.com/in/philip-abraham-942621227/)
+- **[LinkedIn](https://www.linkedin.com/in/philip-abraham-942621227/)**
 - **[Twitter]**(your_twitter_profile_link)
 
 
