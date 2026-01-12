@@ -1,6 +1,6 @@
 # Hi there, I'm Philip! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://lh7-us.googleusercontent.com/h-HWaJbQfBYPLMRzK2RiQ3kUs5iTvhIW8AnDSqMKpMjb74c3Jex0SmM9FerPlbq0c_6KI9dHp4mBVQG9rr9rpIHSraaxtV53BQNxkO3tV9uJSb2jmE-KpC7V0ur35zl2bvGkN6DS3h-TLNCpQJUU7Qs)
 
 ## About Me 🚀
 
