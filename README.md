@@ -13,14 +13,14 @@ I'm a passionate **student** with experience in **Python and SQL**. I love tackl
 - ⚡ Fun fact: **Winter is my favorite of the 4 Seasons by Vivaldi**
 
 ## My Skills 🧠
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -32,18 +32,10 @@ I'm a passionate **student** with experience in **Python and SQL**. I love tackl
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**NBA Position Predictor** is a predictor of an NBA player's position in a given year based on their per game stats that year. The historical player data was scraped from [Basketball Reference's archives](https://www.basketball-reference.com/), and the classification models used were built through Python and SciKit Learn, as well some help from Pandas and NumPy functions as well. This project demonstrates my ability to utilize foundational python libraries used in Data Analytics to develop classification models, as well as my ability to scrape data. You can check out the repository [here](https://github.com/pabraham1/NBA_Position_Analysis.git).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn](https://www.linkedin.com/in/philip-abraham-942621227/)**
-- **[Twitter]**(your_twitter_profile_link)
 
 
