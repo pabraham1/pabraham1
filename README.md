@@ -8,8 +8,8 @@ I'm a passionate **student** with experience in **Python and SQL**. I love tackl
 
 - 🌱 Currently learning: **Tableau**
 - 🔭 Working on: **NBA Position Predictor**
-- 🌍 Languages: **Python, SQL, C++, Java**
-- 📫 How to reach me: **pabraham.wave@gmail.com**
+- 🌍 Languages: **SQL, Python, R, C++, Java**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/philip-abraham-942621227/)** **or email me at abrahamp9955@uhcl.edu**
 - ⚡ Fun fact: **Winter is my favorite of the 4 Seasons by Vivaldi**
 
 ## My Skills 🧠
@@ -30,12 +30,5 @@ I'm a passionate **student** with experience in **Python and SQL**. I love tackl
 
 ### [NBA Position Predictor](https://github.com/pabraham1/NBA_Position_Analysis.git)
 
-![Project 1 Screenshot](project_1_screenshot_url)
 
-**NBA Position Predictor** is a predictor of an NBA player's position in a given year based on their per game stats that year. The historical player data was scraped from [Basketball Reference's archives](https://www.basketball-reference.com/), and the classification models used were built through Python and SciKit Learn, as well some help from Pandas and NumPy functions as well. This project demonstrates my ability to utilize foundational python libraries used in Data Analytics to develop classification models, as well as my ability to scrape data. You can check out the repository [here](https://github.com/pabraham1/NBA_Position_Analysis.git).
-
-
-## Get in Touch 📬
-- **[LinkedIn](https://www.linkedin.com/in/philip-abraham-942621227/)**
-
-
+**NBA Position Predictor** is a predictor of an NBA player's position in a given year based on their per game stats that year. The historical player data was scraped from [Basketball Reference's archives](https://www.basketball-reference.com/), and the classification models used were built through Python and SciKit Learn, as well some help from Pandas and NumPy functions as well. This project demonstrates my ability to utilize foundational python libraries used in Data Analytics to develop classification models. You can check out the repository [here](https://github.com/pabraham1/NBA_Position_Analysis.git).
