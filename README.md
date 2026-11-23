@@ -28,7 +28,16 @@ I'm a passionate **student** with experience in **Python and SQL**. I love tackl
 
 ## Featured Projects 💻
 
+### [HawkNav](https://github.com/sebastianjohn7/HawkNav)
+
+
+**HawkNav** is a proof-of-concept, all-in-one campus navigation app for the University of Houston-Clear Lake (UHCL), developed by our team for our Senior Capstone Project. Designed to streamline how students and visitors get around campus, the mobile app combines campus wayfinding with real-time data for parking availability and shuttle tracking. Built with React Native (Expo), Python, and Supabase, HawkNav integrates a computer vision pipeline for detecting parking availability, an API pipeline for displaying live shuttle data, and a semi-augmented reality for indoor routing. The scope of the project targeted only the Delta Building and surrounding parking lots (due to time constraints). You can check out the repository [here](https://github.com/sebastianjohn7/HawkNav).
+
+
 ### [NBA Position Predictor](https://github.com/pabraham1/NBA_Position_Analysis.git)
 
 
 **NBA Position Predictor** is a predictor of an NBA player's position in a given year based on their per game stats that year. The historical player data was scraped from [Basketball Reference's archives](https://www.basketball-reference.com/), and the classification models used were built through Python and SciKit Learn, as well some help from Pandas and NumPy functions as well. This project demonstrates my ability to utilize foundational python libraries used in Data Analytics to develop classification models. You can check out the repository [here](https://github.com/pabraham1/NBA_Position_Analysis.git).
+
+
+
